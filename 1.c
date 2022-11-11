@@ -10,7 +10,7 @@ int main()
    printf("YDS puanizi yaziniz:  ");
    scanf("%d", &YDS);
    printf("MO'nizi yaziniz: ");
-   scanf("%d ", &MO);
+   scanf("%d", &MO);
    Ort= ALES * 0.5 + YDS * 0.25 + MO * 0.25;
    printf("Ortalama: %f\n", Ort);
    if (Ort>=60)
