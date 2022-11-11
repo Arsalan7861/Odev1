@@ -1,3 +1,4 @@
+//Yildizlarla eskenat ucgen olusturmak.
 #include<stdio.h>
 void main(){
     //TS: toplam satir
