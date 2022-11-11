@@ -1,4 +1,4 @@
-//Yildizlarla eskenat ucgen olusturmak.
+//Yildizlarla eskenar ucgen olusturmak.
 #include<stdio.h>
 void main(){
     //TS: toplam satir
