@@ -1,8 +1,8 @@
 //Benzin istasyonundaki gelen arabalarin sayisini hesaplamak.
 #include <stdio.h>
 int main(){
-int a=0,a1=0,a2=0,a3=0,a4=0;
-float b,s1=0,s2=0,s3=0,s4=0;
+int a=0,a1=0,a2=0,a3=0,a4=0;//a:Arabin Kodu
+float b,s1=0,s2=0,s3=0,s4=0;//b: Benzin, s:Sonuc
 printf("Sistemden cikmak icin 111 0 kodu giriniz!\n");
    while (a!=111) {
     printf("Marka, tutari giriniz: ");
