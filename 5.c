@@ -1,3 +1,4 @@
+//Benzin istasyonundaki gelen arabalarin sayisini hesaplamak.
 #include <stdio.h>
 int main(){
 int a=0,a1=0,a2=0,a3=0,a4=0;
